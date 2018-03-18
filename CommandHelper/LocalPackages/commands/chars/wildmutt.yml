@@ -19,7 +19,6 @@ powers:
 - /buff
 - /jump <0-2>
 - /run <0-4>
-- /cast tracking
 - /herotransform
 run: 4
 speech: RRRAAWWRRRRR
