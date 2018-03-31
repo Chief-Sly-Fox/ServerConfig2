@@ -6,6 +6,7 @@ costumes:
   val: eyJ0aW1lc3RhbXAiOjE0NzQ4MjU4NjQ2NjcsInByb2ZpbGVJZCI6Ijg3ZmIzYzZjNWZmNjRiZjZiMzI2OTkyYzYxMzdlYTEyIiwicHJvZmlsZU5hbWUiOiJUZWt0cm9uaWMiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RlZjZhOGYwNjU4MDQwZTk0NmI4NjViYmU1ODdjYzVkZjYwMzVkM2MwOWQ1NDNmYjI5MzZiZjI3YWJkMzE4In19fQ==
 effects: [
   ]
+maxHearts: 20
 items:
 - /give <plr> minecraft:stick 1 16:2 name:&6Baseball_Bat
 - /give <plr> minecraft:stick 1 16:2 name:&7Crow_Bar
